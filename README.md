@@ -24,6 +24,5 @@ Libraries used:
 * scikit-surprise
 * pandas
 * numpy
-* spacy
 * scipy
 * matplotlib
