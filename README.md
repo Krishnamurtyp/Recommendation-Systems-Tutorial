@@ -7,7 +7,7 @@ Recommender systems are utilized in a variety of areas including movies, music, 
 * Content-based filtering
 * Hybrid
 
-Here i will use some interesting technichs with explanation in notebook.
+Here i will use some interesting technics with explanation in notebook.
 * Data needed to build a recommender
 * Libraries available in Python to build recommenders
 * Use cases 
