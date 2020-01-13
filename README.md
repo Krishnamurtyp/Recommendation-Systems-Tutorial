@@ -26,3 +26,7 @@ Libraries used:
 * numpy
 * scipy
 * matplotlib
+
+<hr>
+
+surprise library overview: https://www.youtube.com/watch?v=z0dx-YckFko&t=297s
